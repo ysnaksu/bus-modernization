@@ -1,1 +1,1 @@
-# bus-modernization
+This project is a step-by-step modernization of a legacy Java bus application.# bus-modernization
